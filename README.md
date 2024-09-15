@@ -1,4 +1,4 @@
-# Monografia de conclusão do curso do Física Computacional 
+# Monografia de conclusão do curso de Física Computacional 
 
 # Sobre o projeto
 
